@@ -1,0 +1,9 @@
+Archivo de prueba02
+	Metemos tabulación
+ Metemos espacio
+Línea000
+Línea001
+Línea002
+Línea7
+Línea8
+Línea9
